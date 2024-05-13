@@ -1,4 +1,4 @@
 # gaurav-demo
 This is my First Git Repository 
 <br>
-Author- Gaurav kumar
+Author- Gaurav (BCA)
